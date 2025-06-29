@@ -1,23 +1,26 @@
 # Privacy Lockdown iOS Shortcut 🛡️
 
-A rapid-response iOS Shortcut for emergencies where your privacy or safety may be at risk — especially during detainment or abuse of authority. Created for activists, journalists, and anyone needing immediate digital lockdown.
+Main shortcut in the iOS Lockdown system — built to secure your iPhone instantly during emergencies or confrontations.
+
+Use this when you need to lock down your device fast, alert trusted contacts, and begin passive audio recording — all with minimal interaction.
 
 ---
 
-## ⚡ What It Does
+✅ What It Does:
 
-* **Locks Down Your iPhone Instantly:**
+Turns Airplane Mode and Do Not Disturb ON
 
-  * Turns on Airplane Mode (kills radios)
-  * Sets screen brightness to 0
-  * Enables Do Not Disturb
-  * **Resets Face ID**, requiring your PIN to unlock
-* **Notifies Trusted Contacts:**
+Turns Cellular, Wi-Fi, and Bluetooth OFF
 
-  * Sends your current location + preset message
-* **Starts Audio Recording:**
+Enables Low Power Mode and Silent Mode
 
-  * Records ambient sound until stopped, storing it locally
+Reduces screen brightness and volume to 0
+
+Resets Face ID to require passcode only
+
+Sends an automated text message with your location to a chosen contact
+
+Starts continuous audio recording (saved locally)
 
 ---
 
@@ -37,37 +40,27 @@ When you run this shortcut for the first time, follow the prompts and respond as
 
 ---
 
-## 🔄 Reversing Lockdown
+📲 How to Use:
 
-Run the shortcut **Privacy Lockdown Reset** to:
+Run manually from the Shortcuts app, your Home Screen, through Siri, or a widget. The shortcut takes over instantly.
 
-* Stop audio recording
-* Restore all modified settings
+Run the companion Privacy Reset shortcut later to restore normal settings and stop audio recording.
 
----
+🛠️ Requirements:
 
-## 💡 Notes
+iOS Shortcuts app (iOS 16 or later)
 
-* Audio is recorded locally only (not uploaded)
-* Face ID is disabled until your passcode is entered
+One-time setup required
 
----
+👤 Author
 
-✊ About & Contribution
-Built by Blueibear with care for civil liberties — especially in an age of rising fascism and digital overreach.
+Made by BlueibearGitHub: @blueibear
 
-Have feedback or ideas?
-GitHub Repo: github.com/blueibear/privacy-lockdown
+📌 Note
 
-Stay alert. Stay in control. Don’t Comply.
+To contribute, report bugs, or request features, open an issue.
 
----
-
-## 🔮 On the Roadmap
-
-* iCloud audio backup (opt-in)
-* Live stream to secure endpoint
-* Panic gesture to trigger shortcut without screen use
+Stay alert. Stay in control. Don’t comply.
 
 ---
 
