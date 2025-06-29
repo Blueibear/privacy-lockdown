@@ -53,15 +53,13 @@ Run the shortcut **Privacy Lockdown Reset** to:
 
 ---
 
-## ✊ About & Contribution
+✊ About & Contribution
+Built by Blueibear with care for civil liberties — especially in an age of rising fascism and digital overreach.
 
-Built by [Blueibear](https://nasteeshirts.com) with care for civil liberties in a time when fascism is on the rise.
+Have feedback or ideas?
+GitHub Repo: github.com/blueibear/privacy-lockdown
 
-Have feedback? Submit issues or improvements:
-**GitHub Repo**: [github.com/YOURUSERNAME/no-comply-privacy-lockdown](#)
-**Project Site**: [nasteeshirts.com](https://nasteeshirts.com)
-
-Stay alert. Stay in control. Don't Comply.
+Stay alert. Stay in control. Don’t Comply.
 
 ---
 
